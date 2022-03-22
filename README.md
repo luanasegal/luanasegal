@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @luanasegal
+- 🌱 I’m currently learning SQL and soon I want to start learning R
+- 📫 How to reach me: luanasralonso@gmail.com
