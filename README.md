@@ -1,4 +1,5 @@
 - 🙃 Hi, I’m @luanasegal
 - 🌱 I’m currently learning Data Analysis (Python) at @datacamp and soon I want to start learning R
+- 💡 On a career transition
 - 📓 Open to learn
 - 📫 How to reach me: luanasralonso@gmail.com
