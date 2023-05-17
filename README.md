@@ -1,5 +1,5 @@
 - 🙃 Hi, I’m @luanasegal
-- 🌱 I’m currently studying Data Analysis at Faculdade Descomplica
+- 🌱 I’m currently studying Full-stack Development at Trybe
 - 💡 On a career transition
 - 📓 Open to learn
-- 📫 How to reach me: luanasralonso@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/luanasralonso/
