@@ -1,5 +1,16 @@
-- 🙃 Hi, I’m @luanasegal
-- 🌱 I’m currently studying Full-stack Development at Trybe
+PT
+- 🙋 Olá, eu sou a Lu
+- 💻 Futura Desenvolvedora Full-stack pela Trybe
+- 💡 Em transição de carreira
+- 📓 Aberta a aprender
+
+EN
+- 🙋 Hi, I’m Lu
+- 💻 I’m currently studying Full-stack Development at Trybe
 - 💡 On a career transition
 - 📓 Open to learn
-- 📫 How to reach me: https://www.linkedin.com/in/luanasralonso/
+
+
+CONTATO | CONTACT
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:)](luanasralonso@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanasralonso/)
