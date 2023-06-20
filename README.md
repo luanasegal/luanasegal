@@ -1,12 +1,12 @@
 PT
 - 🙋 Olá, eu sou a Lu
-- 💻 Futura Desenvolvedora Full-stack pela Trybe
+- 💻 Futura Desenvolvedora Full-stack pela EBAC
 - 💡 Em transição de carreira
 - 📓 Aberta a aprender
 
 EN
 - 🙋 Hi, I’m Lu
-- 💻 I’m currently studying Full-stack Development at Trybe
+- 💻 I’m currently studying Full-stack Development at EBAC
 - 💡 On a career transition
 - 📓 Open to learn
 
