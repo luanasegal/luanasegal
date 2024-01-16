@@ -1,12 +1,14 @@
 PT
 - 🙋 Olá, eu sou a Lu
 - 💻 Futura Desenvolvedora Full-stack pela EBAC
+- 🚀 Futura Cientista de Dados pela FIAP
 - 💡 Em transição de carreira
 - 📓 Aberta a aprender
 
 EN
 - 🙋 Hi, I’m Lu
 - 💻 I’m currently studying Full-stack Development at EBAC
+- 🚀 Future Data Scientist at FIAP
 - 💡 On a career transition
 - 📓 Open to learn
 
