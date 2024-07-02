@@ -1,16 +1,14 @@
-PT
-- 🙋 Olá, eu sou a Lu
+## PT
+- 🙋🏻‍♀️ Olá, eu sou a Lu
+- 👩🏻‍💻 Estagiária em Inteligência Médica no Grupo Fleury
 - 💻 Futura Desenvolvedora Full-stack pela EBAC
 - 🚀 Futura Cientista de Dados pela FIAP
-- 💡 Em transição de carreira
-- 📓 Aberta a aprender
 
-EN
-- 🙋 Hi, I’m Lu
+## EN
+- 🙋🏻‍♀️ Hi, I’m Lu
+- 👩🏻‍💻 Intern in Medical Intelligence at Grupo Fleury
 - 💻 I’m currently studying Full-stack Development at EBAC
 - 🚀 Future Data Scientist at FIAP
-- 💡 On a career transition
-- 📓 Open to learn
 
 
 CONTATO | CONTACT
